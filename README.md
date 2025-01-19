@@ -4,7 +4,8 @@
 My game is focused on the idea of love, through love letters and the concept of 'cupid'. I also looked into the concept of internet chat rooms, which in some ways can be thought to be the modern equivalent of traditional love letters.
 ## Description 
 I intended to make a game inspired by the incredibly popular arcade game 'Space Invaders'. I wanted to make some changes to this concept, so that you would have to shoot at the 'invaders' (love letters) twice before gaining or losing points. The idea is that you are not meant to shoot at the love letters, which causes you to lose points, and you are meant to shoot at the broken hearts to gain points. I also replaced the 'spaceship' and 'bullet' shooters with a bow and arrow, which represents cupid. 
-![instructions page]![howto](https://github.com/user-attachments/assets/8f9917a1-f8a6-4790-81ad-09df868bc936)
+![instructions page]![howto]![how to play (4)](https://github.com/user-attachments/assets/3218a51d-73c9-4b2c-9134-d0b0e1adab51)
+
 I kept the game mechanics simple, as I was already aware that I had chosen a complex game to do and I am a beginner with coding in p5.js. 
 ## Aesthetics
 To stick with the theme of cupid and love, I have chosen pink as the main colour for this project. I found this most fitting as I wanted to keep the game light hearted and enjoyable.
